@@ -1,7 +1,12 @@
 /client/node_modules
 /server/node_modules
 server/.env
-.env
 /openMVG
 /openMVS
 *.sql
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
+node_modules
